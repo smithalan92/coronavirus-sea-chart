@@ -58,7 +58,7 @@ const malaysiaData = [
 
 Highcharts.chart('container', {
   title: {
-    text: 'Confirmed Infections in SEA'
+    text: 'SARS-CoV-2 Confirmed Infections in Asia'
   },
 
   subtitle: {
